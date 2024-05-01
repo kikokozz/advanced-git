@@ -1,3 +1,6 @@
 helo xddddHello again
 Helloooooo
+<<<<<<< HEAD
 blablablabla
+ehehehehe ooops
+>>>>>>> my_second_branch
